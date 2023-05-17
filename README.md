@@ -4,5 +4,9 @@ The average speed of answer metric was crucial in measuring responsiveness. By o
 
 The creation of the Agent's Performance Quadrant offered a visual representation of agent efficiency and effectiveness. This analysis enabled us to identify high-performing agents, optimize their workload, and provide targeted coaching for agents needing improvement.
 
-The project outcomes provide actionable insights for improving overall customer satisfaction, optimizing call center operations, and enhancing agent performance. By leveraging these insights, we are committed to delivering exceptional customer experiences and continuously improving our service delivery.![image](https://github.com/laxmivish/Call-Centre-Performance-Analysis-using-Power-BI/assets/129850080/f0956ff8-e881-4947-9905-fe1265f354c6)
+The project outcomes provide actionable insights for improving overall customer satisfaction, optimizing call center operations, and enhancing agent performance. By leveraging these insights, we are committed to delivering exceptional customer experiences and continuously improving our service delivery.
+
+
+
+![image](https://github.com/laxmivish/Call-Centre-Performance-Analysis-using-Power-BI/assets/129850080/f0956ff8-e881-4947-9905-fe1265f354c6)
 
